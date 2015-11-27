@@ -2,5 +2,7 @@ import 'svg4everybody';
 import $ from 'jquery';
 
 $(() => {
-	// Code here
+	var $body = $('#body');
+	$(document).ready(function() {
+	})
 });
